@@ -1,0 +1,14 @@
+import time
+
+print"Ingrese un primer valor: "
+a=int(input(""))
+
+print"Ingrese un segundo valor: "
+b=int(input(""))
+
+suma=a+b
+
+print"Suma de valores ingresados: "
+print(suma)
+
+time.sleep(5)
